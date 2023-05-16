@@ -7,4 +7,5 @@ Distintas pruebas con algunos de los hooks básicos de React
 - useLayoutEffect
 - memo
 - useCallBack
+- useReducer
 - useContext
